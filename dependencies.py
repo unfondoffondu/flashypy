@@ -1,3 +1,3 @@
 import os
 
-os.system("apt update && apt upgrade -y && apt install speech-dispatcher")
+os.system("sudo apt install speech-dispatcher")
