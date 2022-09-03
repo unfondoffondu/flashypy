@@ -1,0 +1,354 @@
+3des triple data encryption standard
+aaa authentication, authorization, and accounting
+abac attribute-based access control
+acl access control list
+ad active directory
+aes advanced encryption standard
+aes256 advanced encryption standards 256bit
+ah authentication header
+ai artificial intelligence
+ais automated indicator sharing
+ale annualized loss expectancy
+ap access point
+api application programming interface
+apt advanced persistent threat
+aro annualized rate of occurrence
+arp address resolution protocol
+aslr address space layout randomization
+asp active server pages
+att&ck adversarial tactics, techniques, and common knowledge
+aup acceptable use policy
+av antivirus
+bash bourne again shell3
+bcp business continuity planning
+bgp border gateway protocol
+bia business impact analysis
+bios basic input/output system
+bpa business partnership agreement
+bpdu bridge protocol data unitt
+bssid basic service set identifier
+byod bring your own device
+ca certificate authority
+captcha completely automated public turing
+test to tell computers and humans apartcar corrective action report
+casb cloud access security broker
+cbc cipher block chaining
+cbt computer-based training
+ccmp counter-mode/cbc-mac protocol
+cctv closed-circuit television
+cert computer emergency response team
+cfb cipher feedback
+chap challenge-handshake authentication protocol
+cio chief information officer
+cirt computer incident response team
+cis center for internet security
+cms content management system
+cn common name
+coop continuity of operations planning
+cope corporate-owned personally enabled
+cp contingency planning
+crc cyclic redundancy check
+crl certificate revocation list
+csa cloud security alliance
+csirt computer security incident response team
+cso chief security officer
+csp cloud service provider
+csr certificate signing request
+csrf cross-site request forgery
+csu channel service unit
+ctm counter-mode
+cto chief technology officer
+cve common vulnerabilities and exposures
+cvss common vulnerability scoring system
+cyod choose your own device
+dac discretionary access control
+dba database administrator
+ddos distributed denial-of-service
+dep data execution prevention
+der distinguished encoding rules
+des data encryption standard
+dhcp dynamic host configuration protocol
+dhe diffie-hellman ephemeral
+dkim domain keys identified mail
+dll dynamic-link library
+dlp data loss prevention
+dmarc domain message authentication
+reporting and conformance
+dnat destination network address transaction
+dns domain name system
+dnssec domain name system security extensions
+dos denial-of-service
+dpo data protection officer
+drp disaster recovery plan
+dsa digital signature algorithm
+dsl digital subscriber line
+eap extensible authentication protocol
+ecb electronic code book
+ecc elliptic-curve cryptography
+ecdhe elliptic-curve diffie-hellman ephemeral
+ecdsa elliptic-curve digital signature algorithm
+edr endpoint detection and response
+efs encrypted file system
+eip extended instruction pointer
+eol end of life
+eos end of service
+erp enterprise resource planning
+esn electronic serial number
+esp encapsulating security payload
+essid extended service set identifier
+facl file system access control list
+fde full disk encryption
+fim file integrity monitoring
+fpga field programmable gate array
+frr false rejection rate
+ftp file transfer protocol
+ftps secured file transfer protocol
+gcm galois/counter mode
+gdpr general data protection regulation
+gpg gnu privacy guard
+gpo group policy object
+gps global positioning system
+gpu graphics processing unit
+gre generic routing encapsulation
+ha high availability
+hdd hard disk drive
+hids host-based intrusion detection system
+hips host-based intrusion prevention system
+hmac hash-based message authentication code
+hotp hmac-based one-time password
+hsm hardware security module
+hsmaas hardware security module as a service
+html hypertext markup language
+http hypertext transfer protocol
+https hypertext transfer protocol secure
+hvac heating, ventilation, air conditioning
+iaas infrastructure as a service
+iam identity and access management
+icmp internet control message protocol
+ics industrial control systems
+idea international data encryption algorithm
+idf intermediate distribution frame
+idp identity provider
+ids intrusion detection system
+ieee institute of electrical and electronics engineers
+ike internet key exchange
+im instant messaging
+imap4 internet message access protocol v4
+ioc indicators of compromise
+iot internet of things
+ip internet protocol
+ips intrusion prevention system
+ipsec internet protocol security
+ir incident response
+irc internet relay chat
+irp incident response plan
+isa interconnection security agreement
+isfw internal segmentation firewall
+iso international organization for standardization
+isp internet service provider
+isso information systems security officer
+itcp it contingency plan
+iv initialization vector
+kdc key distribution center
+kek key encryption key
+l2tp layer 2 tunneling protocol
+lan local area network
+ldap lightweight directory access protocol
+leap lightweight extensible authentication protocol
+maas monitoring as a service
+mac media access control
+mam mobile application management
+man metropolitan area network
+mbr master boot record
+md5 message digest 5
+mdf main distribution frame
+mdm mobile device management
+mfa multifactor authentication
+mfd multifunction device
+mfp multifunction printer
+ml machine learning
+mms multimedia message service
+moa memorandum of agreement
+mou memorandum of understanding
+mpls multiprotocol label switching
+msa measurement systems analysis
+ms-chap microsoft challenge-handshake
+authentication protocol
+msp managed service provider
+mssp managed security service provider
+mtbf mean time between failures
+mttf mean time to failure
+mttr mean time to repair
+mtu maximum transmission unit
+nac network access control
+nas network-attached storage
+nat network address translation
+nda non-disclosure agreement
+nfc near-field communication
+nfv network function virtualization
+ngfw next-generation firewall
+ng-swg next-generation secure web gateway
+nic network interface card
+nids network-based intrusion detection system
+nips network-based intrusion prevention system
+nist national institute of standards & technology
+noc network operations center
+ntfs new technology file system
+ntlm new technology lan manager
+ntp network time protocol
+ocsp online certificate status protocol
+oid object identifier
+os operating system
+osi open systems interconnection
+osint open-source intelligence
+ospf open shortest path first
+ot operational technology
+ota over-the-air
+otg on-the-go
+oval open vulnerability and assessment language
+owasp open web application security project
+p12 pkcs #12
+p2p peer-to-peer
+paas platform as a service
+pac proxy auto configuration
+pam privileged access management
+pam pluggable authentication modules
+pap password authentication protocol
+pat port address translation
+pbkdf2 password-based key derivation function 2
+pbx private branch exchange
+pcap packet capture
+pci dss payment card industry data security standard
+pdu power distribution unit
+pe portable executable
+peap protected extensible authentication protocol
+ped portable electronic device
+pem privacy enhanced mail
+pfs perfect forward secrecy
+pgp pretty good privacy
+phi personal health information
+pii personally identifiable information
+pin personal identification number
+piv personal identity verification
+pkcs public key cryptography standards
+pki public key infrastructure
+poc proof of concept
+pop post office protocol
+pots plain old telephone service
+ppp point-to-point protocol
+pptp point-to-point tunneling protocol
+psk preshared key
+ptz pan-tilt-zoom
+pup potentially unwanted program
+qa quality assurance
+qos quality of service
+pup potentially unwanted program
+ra registration authority
+rad rapid application development
+radius remote authentication dial-in user service
+raid redundant array of inexpensive disks
+ram random access memory
+ras remote access server
+rat remote access trojan
+rc4 rivest cipher version 4
+rcs rich communication services
+rfc request for comments
+rfid radio frequency identification
+ripemd race integrity primitives
+evaluation message digest
+roi return on investment
+rpo recovery point objective
+rsa rivest, shamir, & adleman
+rtbh remotely triggered black hole
+rto recovery time objective
+rtos real-time operating system
+rtp real-time transport protocol
+s/mime secure/multipurpose internet mail extensions
+saas software as a service
+sae simultaneous authentication of equals
+saml security assertions markup language
+scada supervisory control and data acquisition
+scap security content automation protocol
+scep simple certificate enrollment protocol
+sdk software development kit
+sdlc software development life cycle
+sdlm software development life-cycle methodology
+sdn software-defined networking
+sdp service delivery platform
+sdv software-defined visibility
+sed self-encrypting drives
+seh structured exception handling
+sftp ssh file transfer protocol
+sha secure hashing algorithm
+siem security information and event management
+sim subscriber identity module
+sip session initiation protocol
+sla service-level agreement
+sle single loss expectancy
+smb server message block
+s/mime secure/multipurpose internet mail extensions
+sms short message service
+smtp simple mail transfer protocol
+smtps simple mail transfer protocol secure
+snmp simple network management protocol
+soap simple object access protocol
+soar security orchestration, automation, response
+soc system on chip
+soc security operations center
+spf sender policy framework
+spim spam over instant messaging
+sql structured query language
+sqli sql injection
+srtp secure real-time transport protocol
+ssd solid state drive
+ssh secure shell
+ssid service set identifier
+ssl secure sockets layer
+sso single sign-on
+stix structured threat information expression
+stp shielded twisted pair
+swg secure web gateway
+tacacs+ terminal access controller access control system
+taxii trusted automated exchange
+of intelligence information
+tcp/ip transmission control protocol internet protocol
+tgt ticket granting ticket
+tkip temporal key integrity protocol
+tls transport layer security
+totp time-based one time password
+tpm trusted platform module
+tsig transaction signature
+ttp tactics, techniques, and procedures
+uat user acceptance testing
+udp user datagram protocol
+ueba user and entity behavior analytics
+uefi unified extensible firmware interface
+uem unified endpoint management
+ups uninterruptible power supply
+uri uniform resource identifier
+url universal resource locator
+usb universal serial bus
+usb-otg usb on-the-go
+utm unified threat management
+utp unshielded twisted pair
+vba visual basic for applications
+vde virtual desktop environment
+vdi virtual desktop infrastructure
+vlan virtual local area network
+vlsm variable-length subnet masking
+vm virtual machine
+voip voice over ip
+vpc virtual private cloud
+vpn virtual private network
+vtc video teleconferencing
+waf web application firewall
+wap wireless access point
+wep wired equivalent privacy
+wids wireless intrusion detection system
+wips wireless intrusion prevention system
+worm write once read many
+wpa wifi protected access
+wps wifi protected setup
+xaas anything as a service
+xml extensible markup language
+xor exclusive or

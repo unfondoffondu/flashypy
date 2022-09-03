@@ -1,0 +1,77 @@
+ACL Access Control List
+ASCII American Standard for Computer Information Interchange
+BASH Bourne Again Shell
+BIOS Basic Input Output System
+CIFS Common Internet File System
+CPU Central Processing Unit
+CUPS Common Unix Printing System
+CVE Common Vulnerability and Exposures
+DHCP Dynamic Host Configuration Protocol
+DTLS Datagram Transport Layer Security
+EFI Extensible Firmware Interface
+EPEL Extra Packages for Enterprise Linux
+FTP File Transfer Protocol
+GCC GNU Compiler Collection
+GPIO General Purpose Input Output
+GPT GUID Partition Table
+GPU Graphics Processing Unit
+GRUB Grand Unified Bootloader
+GUI Graphical User Interface
+GUID Global Unique Identifier
+HBA Host Bus Adapter
+HTTP Hypertext Transfer Protocol
+HTTPd Hypertext Transfer Protocol daemon
+IO Input Output
+IP Internet Protocol
+IPSEC Internet Protocol Security
+ISO International Organization for Standardization
+JSON JavaScript Object Notation
+KDE K Desktop Environment
+LDAP Lightweight Directory Authentication Protocol
+LUKS Linux Unified Key Setup
+LVM Logical Volume Manager
+MBR Master Boot Record
+MD5 Message Digest 5
+MOTD Message of the Day
+NAT Network Address Translation
+NFS Network File System
+NTFS New Technology File System
+
+NTP Network Time Protocol
+OTP One Time Password
+OVA Open Virtualization Appliance
+OVF Open Virtualization Format
+PAM Pluggable Authentication Module
+PCI Peripheral Component Interconnect
+PID Process ID
+PKI Public Key Infrastructure
+PTY Pseudoterminal
+PXE Pre-execution Boot
+RADIUS Remote Authentication Dial-in User Service
+RAID Redundant Array of Independent Disks
+RDMA Remote Direct Memory Access
+RPM RPM Package Manager
+SATA Serial Advanced Technology Attachment
+SCSI Small Computer Systems Interface
+SELinux Security Enhanced Linux
+SHA Secure Hash Algorithm
+SMB Server Message Block
+SNMP Simple Network Management Protocol
+SSH Secure Shell
+SSL Secure Sockets Layer
+SUID Set User ID
+TACACS+ Terminal Access Controller Access Control System Plus
+TAR Tape Archive
+TCP Transmission Control Protocol
+TLS Transport Layer Security
+TTY Terminal Type
+UEFI Unified Extensible Firmware Interface
+USB Universal Serial Bus
+UTF Unicode Transformation Format
+VM Virtual Machine
+VNC Virtual Network Computing
+VPN Virtual Private Network
+XFS Extents File System
+XRDP XWindows Remote Desktop Protocol
+YAML Yet Another Markup Language
+YUM Yellowdog Updater Modified

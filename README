@@ -1,0 +1,19 @@
+
+
+----------------------------------------------------------------------------------------------------------------
+
+
+Simple little flash card program.  Works on Linux systems.  Dependencies can be found in the depends 
+directory, only needs speech dispatcher.  Add your acronyms in the data folder in .txt format in the data folder.  
+
+This works best in this format:
+
+AAA Anonymous Aardvark Association
+BBBB Better Buckets By Brandy
+
+The answers need to be lower case and I did my best to sanitize the input from the file, but sometimes it 
+gets funky and you may have to change the file where it is messed up.  It is very picky in regards to grammar
+and plurality, so be careful!
+
+
+------------------------------------------------------------------------------------------------------------------

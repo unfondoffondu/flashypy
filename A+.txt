@@ -1,0 +1,280 @@
+DVD-R Digital Video Disc-Recordable
+DVD-RW Digital Video Disc-Rewritable
+DVI Digital Visual Interface
+DVR Digital Video Recorder
+ECC Error Correcting Code or
+Error Checking and Correction
+ECP Extended Capabilities Port
+EEPROM Electrically Erasable Programmable
+Read-Only Memory
+EFS Encrypting File System
+EIDE Enhanced Integrated Drive Electronics
+ELP Electroluminescence Panel
+EMI Electromagnetic Interference
+EMP Electromagnetic Pulse
+EPROM Erasable Programmable Read-Only Memory
+EPP Enhanced Parallel Port
+ERD Emergency Repair Disk
+eSATA External Serial Advanced Technology Attachment
+ESD Electrostatic Discharge
+EULA End-User License Agreement
+EVGA Extended Video Graphics Adapter/Array
+EVDO Evolution Data Optimized or Evolution Data Only
+Ext2 Second Extended File System
+exFAT Extended File Allocation Table
+FAT File Allocation Table
+FAT12 12-Bit File Allocation Table
+FAT16 16-Bit File Allocation Table
+FAT32 32-Bit File Allocation Table
+FDD Floppy Disk Drive
+Fn Function (referring to the function key on a laptop)
+FPM Fast Page Mode
+FRU Field Replaceable Unit
+FSB Front Side Bus
+FTP File Transfer Protocol
+FQDN Fully Qualified Domain Name
+Gb Gigabit
+GB Gigabyte
+GDDR Graphics Double Data Rate
+GDI Graphics Device Interface
+GHz Gigahertz
+GUI Graphical User Interface
+GPS Global Positioning System
+GPT GUID Partition Table
+GPU Graphics Processing Unit
+GSM Global System for Mobile Communications
+HAL Hardware Abstraction Layer
+HAV Hardware-Assisted Virtualization
+HCL Hardware Compatibility List
+HDCP High-Bandwidth Digital Content Protection
+HDD Hard Disk Drive
+HDMI High-Definition Media Interface
+HIPS Host Intrusion Prevention System
+HPFS High-Performance File System
+HTML Hypertext Markup Language
+HTPC Home Theater PC
+HTTP Hypertext Transfer Protocol
+HTTPS Hypertext Transfer Protocol Over
+Secure Sockets Layer
+I/O Input/Output
+ICMP Internet Control Message Protocol
+ICR Intelligent Character Recognition
+IDE Integrated Drive Electronics
+IDF Intermediate Distribution Frame
+IDS Intrusion Detection System
+IEEE Institute of Electrical and Electronics Engineers
+IIS Internet Information Services
+IMAP Internet Mail Access Protocol
+IMEI International Mobile Equipment Identity
+IMSI International Mobile Subscriber Identity
+IP Internet Protocol
+IPCONFIG Internet Protocol Configuration
+IPP Internet Printing Protocol
+IPS In-Plane Switching
+IPSec Internet Protocol Security
+IR Infrared
+IrDA Infrared Data Association
+IRP Incident Response Plan
+IRQ Interrupt Request
+ISDN Integrated Services Digital Network
+ISO International Organization for Standardization/
+Industry Standards Organization
+ISP Internet Service Provider
+JBOD Just a Bunch Of Disks
+Kb Kilobit
+KB Kilobyte or Knowledge Base
+KVM Kernel-based Virtual Machine
+LAN Local Area Network
+LBA Logical Block Addressing
+LC Lucent Connector
+LCD Liquid Crystal Display
+LDAP Lightweight Directory Access Protocol
+LED Light Emitting Diode
+LI-ON Lithium-Ion
+LPD/LPR Line Printer Daemon/Line Printer Remote
+LPT Line Printer Terminal
+LVD Low Voltage Differential
+MAC Media Access Control or Mandatory Access Control
+MAN Metropolitan Area Network
+MAPI Messaging Application Programming Interface
+MAU Media Access Unit or Media Attachment Unit
+mATX Micro Advanced Technology Extended
+Mb Megabit
+MB Megabyte
+MBR Master Boot Record
+MBSA Microsoft Baseline Security Analyzer
+MDM Master Data Management
+MFA Multifactor Authentication
+MFD Multi-Function Device
+MFP Multi-Function Product
+MHz Megahertz
+MicroDIMM Micro Dual Inline Memory Module
+MIDI Musical Instrument Digital Interface
+MIME Multipurpose Internet Mail Extension
+MIMO Multiple Input Multiple Output
+MMC Microsoft Management Console
+MP3 Moving Picture Experts Group Layer 3 Audio
+MP4 Moving Picture Experts Group Layer 4
+MPEG Moving Picture Experts Group
+MSCONFIG Microsoft Configuration
+MSDS Material Safety Data Sheet
+MT-RJ Mechanical Transfer Registered Jack
+MUI Multilingual User Interface
+NAC Network Access Control
+NAS Network Attached Storage
+NAT Network Address Translation
+NetBIOS Networked Basic Input/Output System
+NetBEUI Networked Basic input/output system
+Extended User Interface
+NFC Near Field Communication
+NFS Network File System
+NIC Network Interface Card
+NiCd Nickel Cadmium
+NiMH Nickel Metal Hydride
+NLX New Low profile Extended
+NNTP Network News Transfer Protocol
+NTFS New Technology File System
+NTLDR New Technology Loader
+NTP Network Time Protocol
+NTSC National Transmission Standards Committee
+OCR Optical Character Recognition
+OEM Original Equipment Manufacturer
+OLED Organic Light Emitting Diode
+OS Operating System
+PAL Phase Alternating Line
+PAN Personal Area Network
+PAT Port Address Translation
+PATA Parallel Advanced Technology Attachment
+PC Personal Computer
+PCI Peripheral Component Interconnect
+PCIe Peripheral Component Interconnect express
+PCIX Peripheral Component Interconnect Extended
+PCL Printer Control Language
+PCMCIA Personal Computer Memory Card
+International Association
+PE Preinstallation Environment
+PGA Pin Grid Array
+PGA2 Pin Grid Array 2
+PGP Pretty Good Protection
+PII Personally Identifiable Information
+PIN Personal Identification Number
+PKI Public Key Infrastructure
+PnP Plug and Play
+POP3 Post Office Protocol 3
+PoS Point of Sale
+POST Power On Self Test
+POTS Plain Old Telephone Service
+PPM Pages Per Minute
+PPP Point-to-Point Protocol
+PPTP Point-to-Point Tunneling Protocol
+PRI Primary Rate Interface
+PRL Preferred Roaming List
+PROM Programmable Read-Only Memory
+PS/2 Personal System/2 Connector
+PSTN Public Switched Telephone Network
+PSU Power Supply Unit
+PVA Patterned Vertical Alignment
+PVC Permanent Virtual Circuit
+PXE Preboot Execution Environment
+QoS Quality of Service
+RADIUS Remote Authentication Dial-In User Server
+RAID Redundant Array of Independent
+(or Inexpensive) Discs
+RAM Random Access Memory
+RAMBUS Rambus Dynamic Random Access Memory
+RAS Remote Access Service
+RDP Remote Desktop Protocol
+RF Radio Frequency
+RFI Radio Frequency Interference
+RGB Red Green Blue
+RIP Routing Information Protocol
+RIS Remote Installation Service
+RISC Reduced Instruction Set Computer
+RJ-11 Registered Jack Function 11
+RJ-45 Registered Jack Function 45
+RMA Returned Materials Authorization
+ROM Read-Only Memory
+RPO Recovery Point Objective
+RTC Real-Time Clock
+RTO Recovery Time Objective
+SAN Storage Area Network
+SAS Serial Attached SCSI
+SATA Serial Advanced Technology Attachment
+SC Subscription Channel
+SCP Secure Copy Protection
+SCSI Small Computer System Interface
+SCSI ID Small Computer System Interface Identifier
+SD Card Secure Digital Card
+SDRAM Synchronous Dynamic Random-Access Memory
+SEC Single Edge Connector
+SFC System File Checker
+SFF Small Form Factor
+SFTP Secured File Transfer Protocol
+SIMM Single In-line Memory Module
+SLI Scalable Link Interface or System Level Integration
+or Scanline Interleave Mode
+S.M.A.R.T. Self-Monitoring, Analysis, and Reporting Technology
+SMB Server Message Block or Small To Midsize Business
+SMTP Simple Mail Transfer Protocol
+SNMP Simple Network Management Protocol
+SoDIMM Small outline Dual Inline Memory Module
+SOHO Small Office, Home Office
+SP Service Pack
+SPDIF Sony/Philips Digital Interface Format
+SPGA Staggered Pin Grid Array
+SRAM Static Random-Access Memory
+SSH Secure Shell
+SSID Service Set Identifier
+SSL Secure Sockets Layer
+ST Straight Tip
+STP Shielded Twisted Pair
+SXGA Super Extended Graphics Array
+TB Terabyte
+TCP Transmission Control Protocol
+TCP/IP Transmission Control Protocol/Internet Protocol
+TDR Time Domain Reflectometer
+TFT Thin Film Transistor
+TFTP Trivial File Transfer Protocol
+TKIP Temporal Key Integrity Protocol
+TLS Transport Layer Security
+TN Twisted Nematic
+TPM Trusted Platform Module
+UAC User Account Control
+UDF User Defined Functions or Universal Disk Format
+or Universal Data Format
+UDP User Datagram Protocol
+UEFI Unified Extensible Firmware Interface
+UNC Universal Naming Convention
+UPnP Universal Plug and Play
+UPS Uninterruptible Power Supply
+URL Uniform Resource Locator
+USB Universal Serial Bus
+USMT User State Migration Tool
+UTM Unified Threat Management
+UTP Unshielded Twisted Pair
+UXGA Ultra Extended Graphics Array
+VA Vertical Alignment
+VDC Volts DC
+VDI Virtual Desktop Infrastructure
+VESA Video Electronics Standards Association
+VFAT Virtual File Allocation Table
+VGA Video Graphics Array
+VM Virtual Machine
+VNC Virtual Network Computer
+VoIP Voice over Internet Protocol
+VPN Virtual Private Network
+VRAM Video Random-Access Memory
+WAN Wide Area Network
+WAP Wireless Access Protocol or Wireless Access Point
+WEP Wired Equivalent Privacy
+WiFi Wireless Fidelity
+WINS Windows Internet Name Service
+WLAN Wireless Local Area Network
+WPA WiFi Protected Access
+WPA2 WiFi Protected Access 2
+WPS WiFi Protected Setup
+WUXGA Wide Ultra Extended Graphics Array
+WWAN Wireless Wide Area Network
+XGA Extended Graphics Array
+ZIF Zero Insertion Force
+ZIP Zig-zag Inline Package
